@@ -29,6 +29,6 @@ Priya → Email: employee5@example.com, Password: 123
 
 Admin Credentials
 
-Admin ID: 100
-Admin Email: admin@example.com
+Admin ID: 100,
+Admin Email: admin@example.com,
 Password: 123

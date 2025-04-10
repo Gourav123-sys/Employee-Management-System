@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Employee-Management-System
 This is a Project on React Js
 =======
@@ -10,9 +9,8 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 37a0788 (First Commit)
 
->>>>>>> [🌐 Live Demo](https://employee-management-system-six-sandy.vercel.app/)
+[🌐 Live Demo](https://employee-management-system-six-sandy.vercel.app/)
 
 
 Employee Management System - Login Guide
